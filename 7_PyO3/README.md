@@ -276,3 +276,25 @@ maturin build --release
 3. Використали `maturin` для збирання та встановлення модуля в Python.
 
 Тепер ви маєте Python-модуль, написаний на Rust, що підтримує хешування паролів!
+
+Для прохідного:
+❌ ! Brief Description
+❌ ! Project Name
+❌ ! Grammar Rules
+❌ ! Unit Tests
+❌ ! Test Coverage
+❌ ! Core Files
+❌ ! CLI
+
+Для максимального:
+❌ Error Handling
+❌ cargo fmt:
+❌ cargo clippy
+❌ makefile
+❌ Completeness
+❌ Including a diagram or grammar in the Readme.md:
+❌ Documentation:
+❌ Publishing
+
+❌ Курсова може бути зарахована
+Бал: 20/20
