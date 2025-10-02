@@ -63,7 +63,7 @@ pub fn hello() -> &'static str {
 
 
 ### 4
-Вибираємо організацію `rust-bootcamp` і `Only select repositories` де вказуємо ту репозиторію яку вам видали для проходженя курсу
+Вибираємо організацію `rust-lang-ua` і `Only select repositories` де вказуємо ту репозиторію яку вам видали для проходженя курсу
 
 
 ![alt text](../assets/image-73.png)
